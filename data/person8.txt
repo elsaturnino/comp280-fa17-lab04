@@ -1,8 +1,3 @@
 Lamont Wilson
 5998 Emacs Avenue
-<<<<<<< HEAD
-Portland, CA 97205
-=======
-Stockton, OR 97205
->>>>>>> cfa8fd11ef1d5d227cc8907ce493e1f791c6aea7
-
+Stockton, CA 97205
