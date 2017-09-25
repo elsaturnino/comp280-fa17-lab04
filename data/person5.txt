@@ -1,4 +1,8 @@
 James Wilkes
+<<<<<<< HEAD
 2000 Acala Park
+=======
+6666 Haven Lane
+>>>>>>> 96277a78b52763bd0d95ddef68e4f88715292739
 Danville, MI 48827
 
