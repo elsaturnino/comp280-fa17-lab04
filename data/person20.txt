@@ -1,8 +1,4 @@
 Nancy Tepper
-<<<<<<< HEAD
-9669 Roadhouse Lane
-=======
-3014 Complab Street
->>>>>>> f88ed85accc9b5355f38966b2417539d92eba988
-Santa Rosa, MI 95401
+3014 Roadhouse Lane
+Santa Rosa, CA 95401
 
